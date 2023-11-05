@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-11-05T10:33:11.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" version="22.0.8" etag="TG3dpmgnfH-hUKWU-N9I" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T10:50:54.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="TkNN1xj3QlAkLbXZUKLy" version="22.0.8" type="github">
   <diagram name="Page-1" id="1xGMXdJ383Ggd0uj2qRP">
-    <mxGraphModel>
+    <mxGraphModel dx="1009" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-1" value="Lucrari cadastru GIS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#00FF00;" vertex="1" parent="1">
+          <mxGeometry x="10" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-2" value="sectoare_cadastrale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-3" value="retea_sprijin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-4" value="echipa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-5" value="angajati" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-6" value="echipament" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-7" value="hardware" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-8" value="floata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-9" value="documente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-10" value="masuratoare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-11" value="primarie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="120" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-12" value="proprietar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-13" value="software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-14" value="dosar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-15" value="templates" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-16" value="planuri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-17" value="respingeri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-18" value="completari" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rCDyi3Vb-71rq8aOjeV-19" value="contestatii" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="885" y="120" width="135" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
