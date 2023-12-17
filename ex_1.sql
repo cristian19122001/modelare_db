@@ -61,13 +61,3 @@ select distinct nume from autori;
 
 
 
-
-
-
-
-
-
-
-
-
-
